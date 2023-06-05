@@ -1,5 +1,5 @@
 <?php
-  $page_title = 'Agregar retiro';
+  $page_title = 'Agregar Retiro';
   require_once('includes/load.php');
 
    page_require_level(3);
