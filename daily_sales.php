@@ -1,5 +1,5 @@
 <?php
-  $page_title = 'Retiro diario';
+  $page_title = 'Retiro Diario';
   require_once('includes/load.php');
 
    page_require_level(3);
