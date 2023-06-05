@@ -1,5 +1,5 @@
 <?php
-  $page_title = 'Agregar material';
+  $page_title = 'Agregar Material';
   require_once('includes/load.php');
   // Comprobación de qué nivel de usuario tiene permiso para ver esta página
   page_require_level(2);
