@@ -1,5 +1,5 @@
 <?php
-  $page_title = 'Lista de usuarios';
+  $page_title = 'Lista de Usuarios';
   require_once('includes/load.php');
 ?>
 <?php
